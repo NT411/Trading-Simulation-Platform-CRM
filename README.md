@@ -111,12 +111,12 @@ Built using **Node.js, Express, MongoDB**, and a **vanilla JavaScript** frontend
 Platform/
  ├─ backend/
  │  ├─ models/           # Mongoose schemas
- │  ├─ node_modules/     # Backend dependencies / This will not be inside the zip after you run npm install it will install it
+ │  ├─ node_modules/     # Backend dependencies / This will not be inside the zip after you run npm install it will create it
  │  ├─ routes/           # API routes
  │  ├─ uploads/          # File uploads
  │  ├─ utils/            # Helper functions
  │  ├─ validators/       # Input validation
- │  ├─ .env              # Environment variables
+ │  ├─ .env              # Environment variables / This will not be inside you will have to create .env follow the steps below
  │  ├─ .gitignore        # Ignored files
  │  ├─ package.json      # Backend dependencies
  │  ├─ package-lock.json # Dependency lock file
@@ -127,7 +127,7 @@ Platform/
     ├─ assets/              # Images, fonts, static resources
     ├─ css/                 # Styling
     ├─ js/                  # Frontend logic
-    ├─ node_modules/        # Dependencies / This will not be inside the zip after you run npm install it will install it
+    ├─ node_modules/        # Dependencies / This will not be inside the zip after you run npm install it will create it
     ├─ dashboard.html       # User dashboard
     ├─ frontend-server.js   # Local dev server
     ├─ index.html           # Login/Register page
@@ -142,7 +142,7 @@ CRM/
  │  ├─ models/           # Mongoose schemas
  │  ├─ node_modules/     # Backend dependencies
  │  ├─ routes/           # API routes (clients, transactions, etc.)
- │  ├─ .env              # Environment variables
+ │  ├─ .env              # Environment variables / This will not be inside you will have to create .env follow the steps below
  │  ├─ .gitignore        # Ignored files
  │  ├─ package.json      # Backend dependencies
  │  ├─ package-lock.json # Dependency lock file
