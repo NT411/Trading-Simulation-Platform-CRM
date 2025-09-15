@@ -10,6 +10,11 @@ Built using **Node.js, Express, MongoDB**, and a **vanilla JavaScript** frontend
 
 ---
 
+
+![Landing Page](./landingPage.png)
+
+
+
 ## Features
 
 ### Accounts & Profile
