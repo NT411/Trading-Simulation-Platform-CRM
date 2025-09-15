@@ -249,4 +249,10 @@ Platform Frontend → http://127.0.0.1:5500
 
 CRM Frontend → http://127.0.0.1:5501 
 
+If you misconfigure the ports, nothing will work — make sure all ports match (assuming you haven’t changed anything).
+
+Frontend (Platform): 5500
+Frontend (CRM): 5501
+Backend (Platform): 5000
+Backend (CRM): 5001
 
