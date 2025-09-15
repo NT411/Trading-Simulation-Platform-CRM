@@ -250,6 +250,7 @@ Platform Frontend → http://127.0.0.1:5500
 CRM Frontend → http://127.0.0.1:5501 
 
 If you misconfigure the ports, nothing will work — make sure all ports match (assuming you haven’t changed anything).
+Also, when you run the live servers you must not run them from the main Project folder. Instead, you must run them from their own folders: CRM and Platform.
 
 Frontend (Platform): 5500
 Frontend (CRM): 5501
