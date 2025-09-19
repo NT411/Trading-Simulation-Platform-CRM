@@ -162,7 +162,7 @@ CRM/
 Installation Guide
 1. Download & Extract
 
-Clone this repo or download the ZIP.
+Download the ZIP.
 
 2. Configure .env
 
