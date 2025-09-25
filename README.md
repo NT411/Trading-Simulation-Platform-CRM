@@ -160,11 +160,12 @@ CRM/
 
 ```
 Installation Guide
-1. Download & Extract
+1. Clone 
+```bash
+git clone https://github.com/NT411/Trading-Simulation-Platform-CRM.git
+```
 
-Download the ZIP.
-
-2. Configure .env
+2. Configure .env 
 
 Create a .env file in both Platform and CRM backends.
 
@@ -242,8 +243,10 @@ TRUST_PROXY=false
 
 From each backend folder:
 
-```
+```bash
 npm install
+```
+```bash
 node server.js
 ```
 4. Run Frontend
